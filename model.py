@@ -238,5 +238,5 @@ if __name__ == '__main__':
     experiment.build()
     experiment.log()
     experiment.train(3000)
-    index = 3
+    index = 11
     experiment.evaluate(index)
